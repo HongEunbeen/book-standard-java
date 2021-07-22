@@ -4,7 +4,7 @@
 ||제목|
 |--|--|
 |3장 | [연산자](https://github.com/HongEunbeen/book-standard-java/tree/master/src/main/java/ch03) |
-|4장 | [조건문관 반복문](https://github.com/HongEunbeen/book-standard-java/tree/master/src/main/java/ch04) |
+|4장 | [조건문과 반복문](https://github.com/HongEunbeen/book-standard-java/tree/master/src/main/java/ch04) |
 |5장 | [배열](https://github.com/HongEunbeen/book-standard-java/tree/master/src/main/java/ch05) |
 |6장 | [객체지향 프로그래밍 1](https://github.com/HongEunbeen/book-standard-java/tree/master/src/main/java/ch06) |
 |7장 | [객체지향 프로그래밍 2](https://github.com/HongEunbeen/book-standard-java/tree/master/src/main/java/ch07) |
