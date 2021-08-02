@@ -16,3 +16,5 @@
 ||제목|
 |--|--|
 |11장 | [컬렉션 프레임웍](https://github.com/HongEunbeen/book-standard-java/tree/master/src/main/java/ch11) |
+|12장 | [지네릭스, 열거형, 애너테이션](https://github.com/HongEunbeen/book-standard-java/tree/master/src/main/java/ch12) |
+
